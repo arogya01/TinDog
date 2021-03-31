@@ -1,1 +1,1 @@
-TinDog Starting Files
+A static website created iusing html,css and bootstrap
