@@ -1,1 +1,1 @@
-A static website created iusing html,css and bootstrap
+A static website created iusing html,css and bootstrap.
